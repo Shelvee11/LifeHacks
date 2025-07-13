@@ -1,0 +1,8 @@
+Raycast 添加 Script Command 步骤:
+
+1. create .py file that fits the automation purpose 
+
+2. copy the .py file to Raycast folder 
+   cp source_file      ~/.config/raycast/script-commands/file_name.py
+
+3. open Raycast application -> search for "Extensions" -> "Script" -> check if the "script-commands" is loaded, if yes, then enable the added command
